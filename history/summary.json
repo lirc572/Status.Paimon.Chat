@@ -4,17 +4,19 @@
     "url": "https://paimon.chat",
     "icon": "https://icons.duckduckgo.com/ip3/paimon.chat.ico",
     "slug": "paimon-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 1185,
-    "timeWeek": 1117,
-    "timeMonth": 1117,
-    "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "time": 999,
+    "timeDay": 619,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2023-03-27": 0
+    }
   }
 ]
